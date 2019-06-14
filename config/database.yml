@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  database: rails5-dev
+  host: localhost
+  username: postgres
+  password: postgres
+
+production:
+  adapter: postgresql
+  database: rails5
+  host: localhost
+  username: postgres
+  password: postgres
